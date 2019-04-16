@@ -1,6 +1,6 @@
 //Mike Scott
 //examples of array manipulations
-
+//first time doing
 public class ArrayExamples
 {	public static void main(String[] args)
 	{	int[] list = {1, 2, 3, 4, 1, 2, 3};
