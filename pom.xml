@@ -15,14 +15,14 @@
     </dependency>
   </dependencies>
   <distributionManagement>
- <repository>
-    <id>CI-GIT-DEV1</id>
-    <url>http://localhost:8081/nexus/content/repositories/CI-GIT-DEV1</url>
+  <repository>
+    <id>CI-GIT-Dev2</id>
+    <url>http://localhost:8081/nexus/content/repositories/CI-GIT-Dev2</url>
   </repository>
 <distributionManagement>
   <snapshotRepository>
-    <id>jose</id>
-    <url>http://localhost:8081/nexus/content/repositories/jose</url>
+    <id>srimanth</id>
+    <url>http://localhost:8081/nexus/content/repositories/srimanth</url>
   </snapshotRepository>
 </distributionManagement>
 </project>
